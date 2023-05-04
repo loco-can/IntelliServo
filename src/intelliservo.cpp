@@ -1,4 +1,4 @@
-#include "intelliservo.h"
+#include "intelliServo.h"
 
 
 INTELLISERVO::INTELLISERVO(void) {}
